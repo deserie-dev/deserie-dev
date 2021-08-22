@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/deserie-dev/deserie-dev/blob/main/black-woman-working-laptop-home-freelance-studying-remote-work-concept-flat-style_254685-18.jpg" height="50px"/></a>
 
 <h1 align="center">Hello, I'm Deserie</h1>
 <h3 align="center">I'm a Full Stack Developer with a special interest in Cloud Computing & DevOps.</h3>
