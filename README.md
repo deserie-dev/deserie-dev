@@ -1,5 +1,3 @@
-<a href="#"><img width="100px" height="100px" src="https://github.com/deserie-dev/deserie-dev/blob/main/black-woman-working-laptop-home-freelance-studying-remote-work-concept-flat-style_254685-18.jpg" height="50px"/></a>
-
 <h1 align="center">Hello, I'm Deserie</h1>
 <h3 align="center">Welcome to my little corner of GitHub. </h3>
 
