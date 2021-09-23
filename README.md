@@ -7,7 +7,7 @@
 
 - I’m also part of the She Code Africa Cloud School, cohort 2, where I'm gaining skills related to DevOps such as Linux, Bash Scripting and Docker.
 
-- How to reach me **deserie.dev@gmail.com**
+- How to reach me **deserie.dev@gmail.com** or you can connect with me on **[Twitter](https://twitter.com/deserie85)**
 
 ## 🚀 Languages and Tools:
 
@@ -50,19 +50,3 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/deserie-murembeni/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/deserie85"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=deserie-dev">
-</a>
-<a href="https://github.com/deserie-dev?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
