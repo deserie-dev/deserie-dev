@@ -1,11 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="100px"  src="https://i.imgur.com/iXuL1HG.png"/></a>
 
 <h1 align="center">Hello, I'm Deserie</h1>
-<h3 align="center">I'm a Full Stack Developer with a special interest in Cloud Computing & DevOps.</h3>
+<h3 align="center">Welcome to my little corner of GitHub. </h3>
 
 <h2 align="left">About Me</h2>
 
-- I’m currently doing a Full Stack Developer bootcamp with YPracticum. At the moment I'm working on the back end for **[Around the U.S.](https://github.com/deserie-dev/web_project_4)** project in a private repo using Express.js.
+- I’m finishing up a Full Stack Developer bootcamp with YPracticum. At the moment I'm working on authentication and authorization in this project: **[Around the U.S.](https://github.com/deserie-dev/react-around-auth)**
 
 - I’m also part of the She Code Africa Cloud School, cohort 2, where I'm gaining skills related to DevOps such as Linux, Bash Scripting and Docker.
 
