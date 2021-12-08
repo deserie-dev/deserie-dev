@@ -3,9 +3,11 @@
 
 <h2 align="left">About Me</h2>
 
-- I’m finishing up a Full Stack Developer bootcamp with YPracticum. At the moment I'm working on authentication and authorization in this project: **[Around the U.S.](https://github.com/deserie-dev/react-around-auth)**
+- I enjoy all things DevOps, check out my blog **[https://hashnode.com/@Deserie](https://hashnode.com/@Deserie)**
 
-- I’m also part of the She Code Africa Cloud School, cohort 2, where I'm gaining skills related to DevOps such as Linux, Bash Scripting and Docker.
+- I’m finishing up a Full Stack Web Developer bootcamp with YPracticum and will graduate in January 2022.**
+
+- I recently graduated from the She Code Africa Cloud School, cohort 2, where I gained skills related to DevOps such as Linux, Bash Scripting and Docker.
 
 - How to reach me **deserie.dev@gmail.com** or you can connect with me on **[Twitter](https://twitter.com/deserie85)**
 
