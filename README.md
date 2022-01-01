@@ -9,6 +9,8 @@
 
 - I recently graduated from the She Code Africa Cloud School, cohort 2, where I gained skills related to DevOps such as Linux, Bash Scripting and Docker.
 
+- I'm currently studying for my AWS Certified Solutions Architect Associate certification through the SheBuilds Program.
+
 - How to reach me **deserie.dev@gmail.com** or you can connect with me on **[Twitter](https://twitter.com/deserie85)**
 
 ---
