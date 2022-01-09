@@ -15,18 +15,21 @@
 
 ---
 
-## Devops related labs :
+## Devops/Cloud related labs :
 
+- [AWS Certified Solutions Architect Labs](https://github.com/deserie-dev/AWS_CSA_Labs)
 - [Terraform](https://github.com/deserie-dev/Terraform_Labs)
 - [SCA Cloud School Tasks](https://github.com/deserie-dev/SCA-Cloud-School-Tasks)
 - [CI/CD Tools](https://github.com/deserie-dev/CI-CD-Tools)
 - [Docker](https://github.com/deserie-dev/Docker_Practice_02)
+- [AWS Well Architected Labs](https://github.com/deserie-dev/AWS-Well-Architected-Labs)
 
 ---
 
 ## Web Developer Bootcamp Projects
 
 - [FullStack React Project](https://github.com/deserie-dev/react-around-api-full)
+- [React Project](https://github.com/deserie-dev/job-hunt-frontend)
 - [Advanced JavaScript Project](https://github.com/deserie-dev/web_project_4)
 - [HTML, CSS Project](https://github.com/deserie-dev/web_project_3)
 
