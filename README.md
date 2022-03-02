@@ -3,15 +3,17 @@
 
 <h2 align="left">About Me</h2>
 
-- I enjoy all things DevOps, check out my blog **[https://hashnode.com/@Deserie](https://hashnode.com/@Deserie)**
+- I am a Full Stack Developer with a passion for cloud computing (AWS & Azure), and enjoy utilizing various tools and methods related to DevOps.
 
-- I’m finishing up a Full Stack Web Developer bootcamp with YPracticum and will graduate in January 2022.\*\*
+- Recently passed the AWS Solutions Architect Associate Certification.
 
-- I recently graduated from the She Code Africa Cloud School, cohort 2, where I gained skills related to DevOps such as Linux, Bash Scripting and Docker.
+- My blog focuses on DevOps, check it out here **[https://hashnode.com/@Deserie](https://hashnode.com/@Deserie)**
 
-- I'm currently studying for my AWS Certified Solutions Architect Associate certification through the SheBuilds Program.
+- I recently graduated from the She Code Africa Cloud School, cohort 2, where I gained skills related to DevOps such as Linux, Bash Scripting, Jenkins and Docker.
 
-- How to reach me **deserie.dev@gmail.com** or you can connect with me on **[Twitter](https://twitter.com/deserie85)**
+- If you would like to get in touch, feel free to email me: **deserie.dev@gmail.com**
+
+- **[My Personal Website](https://deserie.netlify.app/)**
 
 ---
 
