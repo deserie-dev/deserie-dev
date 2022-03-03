@@ -15,6 +15,8 @@
 
 - **[My Personal Website](https://deserie.netlify.app/)**
 
+- Current Read: Terraform Up & Running by Yevgeniy Brikman. [Labs I've done so far from this book.](https://github.com/deserie-dev/Terraform_Labs)
+
 ---
 
 ## Devops/Cloud related labs :
