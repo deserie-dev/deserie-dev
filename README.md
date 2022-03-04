@@ -5,9 +5,9 @@
 
 - I am a Full Stack Developer with a passion for cloud computing (AWS & Azure), and enjoy utilizing various tools and methods related to DevOps.
 
-- Recently passed the AWS Solutions Architect Associate Certification.
+- Current Read: Terraform Up & Running by Yevgeniy Brikman. [Labs I've done so far from this book.](https://github.com/deserie-dev/Terraform_Labs)
 
-- My blog focuses on DevOps, check it out here **[https://hashnode.com/@Deserie](https://hashnode.com/@Deserie)**
+- Recently passed the AWS Solutions Architect Associate Certification.
 
 - I recently graduated from the She Code Africa Cloud School, cohort 2, where I gained skills related to DevOps such as Linux, Bash Scripting, Jenkins and Docker.
 
@@ -15,7 +15,7 @@
 
 - **[My Personal Website](https://deserie.netlify.app/)**
 
-- Current Read: Terraform Up & Running by Yevgeniy Brikman. [Labs I've done so far from this book.](https://github.com/deserie-dev/Terraform_Labs)
+- My blog focuses on DevOps, check it out here **[https://hashnode.com/@Deserie](https://hashnode.com/@Deserie)**
 
 ---
 
