@@ -3,34 +3,58 @@
 
 <h2 align="left">About Me</h2>
 
-- I am a Full Stack Developer with a passion for cloud computing (AWS & Azure), and enjoy utilizing various tools and methods related to DevOps.
-
-- Current Read: Terraform Up & Running by Yevgeniy Brikman. [Labs I've done so far from this book.](https://github.com/deserie-dev/Terraform_Labs)
-
-- Recently passed the AWS Solutions Architect Associate Certification.
-
-- I recently graduated from the She Code Africa Cloud School, cohort 2, where I gained skills related to DevOps such as Linux, Bash Scripting, Jenkins and Docker.
-
-- If you would like to get in touch, feel free to email me: **deserie.dev@gmail.com**
-
-- **[My Personal Website](https://deserie.netlify.app/)**
-
-- My blog focuses on DevOps, check it out here **[https://hashnode.com/@Deserie](https://hashnode.com/@Deserie)**
+```yaml
+apiVersion: v1
+kind: Human
+metadata:
+  name: Deserie Murembeni
+spec:
+  contact:
+    -
+      type: Email
+      where: deserie.dev@gmail.com
+    -
+      type: Twitter
+      where: https://twitter.com/deserie85
+    -
+      type: LinkedIn
+      where: https://www.linkedin.com/in/deserie-murembeni/
+    -
+      type: Website
+      where: https://deserie.netlify.app/
+    -
+      type: Blog
+      where: https://hashnode.com/@Deserie
+  certifications:
+    aws: Solutions Architect Associate
+    aws: Practitioner
+    azure: AZ-900
+  currentRead:
+    title: Terraform Up & Running by Yevgeniy Brikman.
+```
 
 ---
 
 ## Devops/Cloud related labs :
 
-- [AWS Certified Solutions Architect Labs](https://github.com/deserie-dev/AWS_CSA_Labs)
-- [Terraform](https://github.com/deserie-dev/Terraform_Labs)
-- [SCA Cloud School Tasks](https://github.com/deserie-dev/SCA-Cloud-School-Tasks)
-- [CI/CD Tools](https://github.com/deserie-dev/CI-CD-Tools)
-- [Docker](https://github.com/deserie-dev/Docker_Practice_02)
-- [AWS Well Architected Labs](https://github.com/deserie-dev/AWS-Well-Architected-Labs)
+- [Terraform](https://github.com/deserie-dev/Terraform_Labs) -
+  Labs I'm doing whilst reading the Terraform Up & Running book
+- [AWS Certified Solutions Architect Labs](https://github.com/deserie-dev/AWS_CSA_Labs) -
+  Labs I did while studying for the AWS SAA certification
+- [SCA Cloud School Tasks](https://github.com/deserie-dev/SCA-Cloud-School-Tasks) -
+  Labs featuring various DevOps tools that I completed as part of the curriculum for the SheCodeAfrica Cloud School, cohort 2.
+- [Docker](https://github.com/deserie-dev/Docker_Practice_02) -
+  Docker, Docker Compose, ECR lab
+- [AWS Well Architected Labs](https://github.com/deserie-dev/AWS-Well-Architected-Labs) -
+  Labs from [wellarchitectedlabs.com](https://wellarchitectedlabs.com/) I'm using to learn architectural best practices.
+- [Jenkins CICD Pipeline to Build a Docker Image with Splunk Integration](https://github.com/deserie-dev/Devops-Jenkins-Docker-Splunk) -
+  Jenkins pipeline lab
+
+Feel free to scroll through my repos for more DevOps related labs/projects I've done.
 
 ---
 
-## Web Developer Bootcamp Projects
+## YPracticum Web Developer Bootcamp Projects
 
 - [FullStack React Project](https://github.com/deserie-dev/react-around-api-full)
 - [React Project](https://github.com/deserie-dev/job-hunt-frontend)
@@ -41,16 +65,16 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<p align="left">
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
     <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="48" height="48"/> </a>
     <a href="https://www.linux.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="48" height="48"/> </a>
@@ -80,3 +104,4 @@
 
 <br/>
 <br/>
+```
